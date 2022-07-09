@@ -14,7 +14,7 @@ npm install npm-badge-generator
 
 ```javascript
 
-const NPMBadget = require('npm-badge-generator');
+const NPMBadge = require('npm-badge-generator');
 
 const githubUsername = 'arshadkazmi42'
 const githubRepositoryName = 'npm-badge-generator';
