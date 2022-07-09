@@ -1,6 +1,6 @@
 {
   "name": "npm-badge-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate markdown badges for NPM package github repository README.md",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/npm-badge-generator.git"
   },
-  "keywords": [],
+  "keywords": [
+    "npm",
+    "badge generator",
+    "markdown",
+    "github",
+    "repository"
+  ],
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.5.1",
